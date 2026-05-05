@@ -8,8 +8,8 @@
 *.swp
 *~
 
-# Claude Code local overrides
-.claude/settings.local.json
+# Claude Code local tooling (preview server config has machine-specific paths)
+.claude/
 
 # Environment
 .env
